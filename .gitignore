@@ -1,0 +1,31 @@
+# Visual Studio per-user files
+*.suo
+*.user
+
+# ReSharper meta directory
+_ReSharper*
+
+# Build results
+Debug/
+Release/
+*.ncb
+*.aps
+*.obj
+.builds
+
+# ReSharper is a .NET coding add-in
+_ReSharper*
+
+# Others
+bin
+Bin
+obj
+Obj
+sql
+TestResults
+*.Cache
+ClientBin
+stylecop.*
+~$*
+*.dbmdl
+
