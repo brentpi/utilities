@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<printers>
+  <printer>
+    <name>Demo Printer</name>
+    <description>HP LaserJet located in the library computer lab.</description>
+    <path>\\SERVERPATH\PXXXXLIBHP20</path>
+  </printer>
+</printers>
